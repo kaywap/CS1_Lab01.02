@@ -1,0 +1,4 @@
+KAY 200
+JUZ 1
+JUL 50
+ABC 21
