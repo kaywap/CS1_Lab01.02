@@ -1,18 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="10605be5-8547-4b28-8e84-94d30ecc74cf" name="Changes" comment="" />
+    <list default="true" id="10605be5-8547-4b28-8e84-94d30ecc74cf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HighScore.py" beforeDir="false" afterPath="$PROJECT_DIR$/HighScore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_over_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/game_over_sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/towerdefense.py" beforeDir="false" afterPath="$PROJECT_DIR$/towerdefense.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kaywap&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kaywap/CS1_Lab01.02.git&quot;,
+    &quot;accountId&quot;: &quot;a2d89ee5-6c7c-4396-97d6-c1bd2d016960&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2s5MUcgEeEFPsFwW4F9FcaFgXF5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,17 +49,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.game_over_sequence.executor": "Run",
+    "Python.random.executor": "Run",
+    "Python.towerdefense.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
-        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
+        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
       </set>
     </attachedChunks>
   </component>
@@ -43,8 +84,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737740998816</updated>
-      <workItem from="1737740999834" duration="1000" />
+      <workItem from="1737740999834" duration="376000" />
+      <workItem from="1737741453781" duration="2000" />
+      <workItem from="1737741506097" duration="20000" />
+      <workItem from="1737742090220" duration="240000" />
+      <workItem from="1737742340105" duration="102000" />
+      <workItem from="1737742470792" duration="28000" />
+      <workItem from="1737742516854" duration="6000" />
+      <workItem from="1737742562726" duration="27000" />
+      <workItem from="1737742636099" duration="2413000" />
+      <workItem from="1738085258500" duration="42124000" />
+      <workItem from="1738606917626" duration="304000" />
+      <workItem from="1738607240895" duration="29000" />
+      <workItem from="1738607283632" duration="10753000" />
+      <workItem from="1738782339024" duration="51206000" />
+      <workItem from="1739888367034" duration="1162000" />
+      <workItem from="1740606394270" duration="1348000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CS1_Lab01_02$random.coverage" NAME="random Coverage Results" MODIFIED="1740607244823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10" />
+    <SUITE FILE_PATH="coverage/CS1_Lab01_02$towerdefense.coverage" NAME="towerdefense Coverage Results" MODIFIED="1740607669119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CS1_Lab01_02$game_over_sequence.coverage" NAME="game_over_sequence Coverage Results" MODIFIED="1739388909360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
